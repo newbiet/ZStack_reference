@@ -28,5 +28,5 @@
     * [安全组](Unit/SG/README.md)
     * [安全组](Unit/SG/README.md)
     * [安全组](Unit/SG/README.md)
-    * [索引](Index/README.md)
+* [索引](Index/README.md)
 
