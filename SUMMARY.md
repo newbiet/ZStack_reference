@@ -10,9 +10,9 @@
       * [行为](/Unit/Zone/behavior/README.md)
            * [创建Zone](/Unit/Zone/behavior/create_zone.md)                    
            * [删除Zone](/Unit/Zone/behavior/delete_zone.md)
-           * [修改Zone的状态](/Unit/Zone/behavior/change_state)
-           * [加载镜像服务器](/Unit/Zone/behavior/attach_bs)
-           * [卸载镜像服务器](/Unit/Zone/behavior/detach_bs)                   
+           * [修改Zone的状态](/Unit/Zone/behavior/change_state.md)
+           * [加载镜像服务器](/Unit/Zone/behavior/attach_bs.md)
+           * [卸载镜像服务器](/Unit/Zone/behavior/detach_bs.md)                   
       * [事件](/Unit/Zone/incident.md)
 
    * [集群](Unit/Cluster/README.md)
