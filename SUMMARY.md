@@ -24,6 +24,6 @@
     * [计算规格](Unit/Compute_Offering/README.md)
     * [云主机](Unit/VM/README.md)
     * [安全组](Unit/SG/README.md)
-    * [用户管理](Unit/SG/README.md)
+    * [用户管理](Unit/User/README.md)
 * [索引](Index/README.md)
 
