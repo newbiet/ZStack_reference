@@ -21,10 +21,14 @@
     * [三层网络](Unit/L3/README.md)
     * [镜像](Unit/Image/README.md)
     * [云盘](Unit/Volume/README.md)
-    * [主存储](Unit/PS/README.md)
-    * [主存储](Unit/PS/README.md)
-    * [主存储](Unit/PS/README.md)
-    * [主存储](Unit/PS/README.md)
+    * [云盘规格](Unit/Volume_Offering/README.md)
+    * [计算规格](Unit/Compute_Offering/README.md)
+    * [云主机](Unit/VM/README.md)
+    * [安全组](Unit/SG/README.md)
+    * [安全组](Unit/SG/README.md)
+    * [安全组](Unit/SG/README.md)
+    * [安全组](Unit/SG/README.md)
+    * [安全组](Unit/SG/README.md)
 
 -----
 * [索引](Index/README.md)
