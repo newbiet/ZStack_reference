@@ -28,6 +28,7 @@
         * [状态](Unit/VM/status.md)
         * [行为](Unit/VM/behavior/README.md)
             * [虚拟机热迁移](Unit/VM/behavior/live_mv.md)
+        * [事件](Unit/VM/incident.md)
     * [安全组](Unit/SG/README.md)
     * [用户管理](Unit/User/README.md)
 * [索引](Index/README.md)
