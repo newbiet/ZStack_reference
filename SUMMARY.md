@@ -1,4 +1,3 @@
-# Summary
 
 ## Mevoco_reference_demo
 * [Mevoco](README.md)
