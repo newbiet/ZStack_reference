@@ -1,7 +1,6 @@
 
 ## Mevoco_reference_demo
-* [Mevoco](README.md)
-* [概述](introduction.md)
+* [概述](README.md)
 * [单元](Unit/README.md)
     * [区域](Unit/Zone/README.md)
         * [介绍](Unit/Zone/introduction.md)
