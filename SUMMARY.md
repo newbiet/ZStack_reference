@@ -73,5 +73,5 @@
     * [存储资源不足](Issues_Solve/lack_storage_resource.md)
     * [可用IP不足](Issues_Solve/lack_IP_resource.md)
 * [索引](Index/README.md)
-    * [创建Zone](Index/create_zone.md)
+
 
