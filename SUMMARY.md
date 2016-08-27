@@ -29,7 +29,6 @@
         * [行为](Unit/VM/behavior/README.md)
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [云主机热迁移](Unit/VM/behavior/live_mv.md)
-        * [事件](Unit/VM/incident.md)
     * [安全组](Unit/SG/README.md)
     * [用户管理](Unit/User/README.md)
 * [索引](Index/README.md)
