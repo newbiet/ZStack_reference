@@ -12,8 +12,17 @@
             * [修改Zone的状态](Unit/Zone/behavior/change_state.md)
             * [加载镜像服务器](Unit/Zone/behavior/attach_bs.md)
             * [卸载镜像服务器](Unit/Zone/behavior/detach_bs.md)
+
     * [集群](Unit/Cluster/README.md)
+        * [介绍](Unit/VM/introduction.md)
+        * [状态](Unit/VM/status.md)
+        * [行为](Unit/VM/behavior/README.md)
+
     * [物理机](Unit/Host/README.md)
+        * [介绍](Unit/VM/introduction.md)
+        * [状态](Unit/VM/status.md)
+        * [行为](Unit/VM/behavior/README.md)
+
     * [备份存储](Unit/BS/README.md)
         * [介绍](Unit/VM/introduction.md)
         * [状态](Unit/VM/status.md)
@@ -61,12 +70,22 @@
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [云主机热迁移](Unit/VM/behavior/live_mv.md)
     * [安全组](Unit/SG/README.md)
+        * [介绍](Unit/VM/introduction.md)
+        * [状态](Unit/VM/status.md)
+        * [行为](Unit/VM/behavior/README.md)
+
     * [用户管理](Unit/User/README.md)
+        * [介绍](Unit/VM/introduction.md)
+        * [状态](Unit/VM/status.md)
+        * [行为](Unit/VM/behavior/README.md)
+
 * [场景](Scenes/README.md)
     * [主存储为localstorage创建云主机](Scenes/PS_localstorage_create_vm.md)
+
 * [错误处理](Issues_Solve/README.md)
     * [计算资源不足](Issues_Solve/lack_compute_resource.md)
     * [存储资源不足](Issues_Solve/lack_storage_resource.md)
     * [可用IP不足](Issues_Solve/lack_IP_resource.md)
+
 * [索引](Index/README.md)
     * [创建Zone](Index/create_zone.md)
