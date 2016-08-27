@@ -36,4 +36,4 @@
 * [错误处理](Issues_Solve/README.md)
     * [计算资源不足](Issues_Solve/lack_compute_resource.md)
 * [索引](Index/README.md)
-    * [创建Zone](Index/)
+    * [创建Zone](Index/create_zone.md)
