@@ -13,10 +13,14 @@
 * ### 参数
  | 单元 | 状态 |
 | ---| ---| 
-| 镜像|state:Enabled ; status:Ready|
-| 物理机|state:Enabled ; status:Connected|
-| 
+| [镜像](/Unit/Image/README.md) |state:Enabled ; status:Ready|
+| [物理机](/Unit/Host/README.md)|state:Enabled ; status:Connected|
+| [计算规格](/Unit/Compute_Offering/README.md) | state:Enable |
+| [云盘规格](/Unit/Volume_Offering/README.md) | state:Enable |
+| [L3网络](/Unit/L3/README.md) | state:Enable |
+
 * ### 结束状态
-处于运行状态的云主机，打开console处于系统引导
+云主机处于[运行状态](/Unit/VM/status.md)，打开console进入系统引导
+
 * ### 场景
 
