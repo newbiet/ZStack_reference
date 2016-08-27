@@ -31,5 +31,7 @@
             * [云主机热迁移](Unit/VM/behavior/live_mv.md)
     * [安全组](Unit/SG/README.md)
     * [用户管理](Unit/User/README.md)
+* [场景](Index/README.md)
+* [错误处理](Index/README.md)
 * [索引](Index/README.md)
 
