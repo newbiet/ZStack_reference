@@ -34,6 +34,6 @@
 * [场景](Scenes/README.md)
     * [主存储为localstorage创建云主机](Scenes/PS_localstorage_create_vm.md)
 * [错误处理](Issues_Solve/README.md)
-    * [计算资源不足](Issues_Solve/lack_compute_res.md)
+    * [计算资源不足](Issues_Solve/lack_compute_resource.md)
 * [索引](Index/README.md)
 
