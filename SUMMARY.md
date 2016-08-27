@@ -12,57 +12,46 @@
             * [修改Zone的状态](Unit/Zone/behavior/change_state.md)
             * [加载镜像服务器](Unit/Zone/behavior/attach_bs.md)
             * [卸载镜像服务器](Unit/Zone/behavior/detach_bs.md)
-
     * [集群](Unit/Cluster/README.md)
         * [介绍](Unit/Cluster/introduction.md)
         * [状态](Unit/Cluster/status.md)
         * [行为](Unit/Cluster/behavior/README.md)
-
     * [物理机](Unit/Host/README.md)
         * [介绍](Unit/Host/introduction.md)
         * [状态](Unit/Host/status.md)
         * [行为](Unit/Host/behavior/README.md)
-
     * [备份存储](Unit/BS/README.md)
         * [介绍](Unit/BS/introduction.md)
         * [状态](Unit/BS/status.md)
         * [行为](Unit/BS/behavior/README.md)
-
     * [主存储](Unit/PS/README.md)
         * [介绍](Unit/PS/introduction.md)
         * [状态](Unit/PS/status.md)
         * [行为](Unit/PS/behavior/README.md)
-
     * [二层网络](Unit/L2/README.md)
         * [介绍](Unit/L2/introduction.md)
         * [状态](Unit/L2/status.md)
         * [行为](Unit/L2/behavior/README.md)
-
     * [三层网络](Unit/L3/README.md)
-        * [介绍](Unit/L2/introduction.md) 
-        * [状态](Unit/L2/status.md) 
+        * [介绍](Unit/L2/introduction.md)
+        * [状态](Unit/L2/status.md)
         * [行为](Unit/L2/behavior/README.md)
-
     * [镜像](Unit/Image/README.md)
-        * [介绍](Unit/Image/introduction.md) 
-        * [状态](Unit/Image/status.md) 
+        * [介绍](Unit/Image/introduction.md)
+        * [状态](Unit/Image/status.md)
         * [行为](Unit/Image/behavior/README.md)
-
     * [云盘](Unit/Volume/README.md)
-        * [介绍](Unit/VM/introduction.md) 
+        * [介绍](Unit/VM/introduction.md)
         * [状态](Unit/VM/status.md)
         * [行为](Unit/VM/behavior/README.md)
-
     * [云盘规格](Unit/Volume_Offering/README.md)
         * [介绍](Unit/Volume_Offering/introduction.md)
-        * [状态](Unit/Volume_Offering/status.md) 
+        * [状态](Unit/Volume_Offering/status.md)
         * [行为](Unit/Volume_Offering/behavior/README.md)
-
     * [计算规格](Unit/Compute_Offering/README.md)
-        * [介绍](Unit/Compute_Offering/introduction.md) 
-        * [状态](Unit/Compute_Offering/status.md) 
+        * [介绍](Unit/Compute_Offering/introduction.md)
+        * [状态](Unit/Compute_Offering/status.md)
         * [行为](Unit/Compute_Offering/behavior/README.md)
-
     * [云主机](Unit/VM/README.md)
         * [介绍](Unit/VM/introduction.md)
         * [状态](Unit/VM/status.md)
@@ -73,19 +62,16 @@
         * [介绍](Unit/SG/introduction.md)
         * [状态](Unit/SG/status.md)
         * [行为](Unit/SG/behavior/README.md)
-
     * [用户管理](Unit/User/README.md)
         * [介绍](Unit/User/introduction.md)
         * [状态](Unit/User/status.md)
         * [行为](Unit/User/behavior/README.md)
-
 * [场景](Scenes/README.md)
     * [主存储为localstorage创建云主机](Scenes/PS_localstorage_create_vm.md)
-
 * [错误处理](Issues_Solve/README.md)
     * [计算资源不足](Issues_Solve/lack_compute_resource.md)
     * [存储资源不足](Issues_Solve/lack_storage_resource.md)
     * [可用IP不足](Issues_Solve/lack_IP_resource.md)
-
 * [索引](Index/README.md)
     * [创建Zone](Index/create_zone.md)
+
