@@ -2,7 +2,8 @@
     "plugins": [
         "-search",
         "search-pro",
-        "search-jieba"
+        "search-jieba",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
         "search-pro": {
