@@ -1,12 +1,15 @@
 {
-"plugins": [
-    "-search",
-    "search-pro"
-],
-"pluginsConfig": {
-    "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["Gitbook Use"]
+    "plugins": [
+        "-search",
+        "search-pro",
+        "search-jieba"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": [
+                "Gitbook Use"
+            ]
+        }
     }
-}
 }
