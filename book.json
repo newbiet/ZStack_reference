@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "search"
+        "search",
+        "search-jieba"
     ],
     "pluginsConfig": {
         "search-pro": {
