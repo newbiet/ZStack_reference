@@ -2,8 +2,8 @@
     "plugins": [
         "-search",
         "search-pro",
-        "search-jieba",
-        "toggle-chapters"
+        "toggle-chapters",
+        "disqus"
     ],
     "pluginsConfig": {
         "search-pro": {
