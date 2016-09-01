@@ -3,7 +3,7 @@
 ## Mevoco\_reference
 * [版权声明](CopyRight.md)
 * [概述](README.md)
-* [对象](Unit/README.md)
+* [资源](Unit/README.md)
     * [区域](Unit/Zone/README.md)
         * [介绍](Unit/Zone/introduction.md)
         * [状态](Unit/Zone/status.md)
@@ -56,7 +56,7 @@
     * [云主机](Unit/VM/README.md)
         * [介绍](Unit/VM/introduction.md)
         * [状态](Unit/VM/status.md)
-        * [行为](Unit/VM/behavior/README.md)
+        * [操作](Unit/VM/behavior/README.md)
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [云主机热迁移](Unit/VM/behavior/live_mv.md)
     * [安全组](Unit/SG/README.md)
@@ -75,5 +75,4 @@
     * [可用IP不足](Issues_Solve/lack_IP_resource.md)
 * [版本更新](introduction.md)
 * [索引](Index/README.md)
-
 
