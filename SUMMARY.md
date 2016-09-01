@@ -24,7 +24,7 @@
     * [备份存储](Unit/BS/README.md)
         * [介绍](Unit/BS/introduction.md)
         * [状态](Unit/BS/status.md)
-        * [行为](Unit/BS/behavior/README.md)
+        * [操作](Unit/BS/behavior/README.md)
     * [主存储](Unit/PS/README.md)
         * [介绍](Unit/PS/introduction.md)
         * [状态](Unit/PS/status.md)
