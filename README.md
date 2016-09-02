@@ -4,7 +4,21 @@
 
 本文档主要介绍Mevoco的各个资源以及每个资源状态变化的条件。用户可以在文档中找到Mevoco中所有功能的底层逻辑，从而对每个资源的操作有清楚的认识。此外，在使用Mevoco的过程中出现问题时，能根据本文档中的线索找到问题的源头和解决方案。 
 
-产品手册里会详细介绍Mevoco的各个功能模块。每个功能是一章，每一章还会划分为以下几个部分：简介: 简单介绍一下该功能的背景。清单（Inventory）: 介绍该功能各种资源(例如主机区域（zone）, 虚拟机（virtual machine）)的清单，也就是在使用各种Query API得到的返回结果。 我们会使用表格来展示清单，表格的左边是资源的名字，右侧会介绍该资源的用途。操作: 介绍和该功能有关的API操作。我们还将结合ZStack的命令行工具`zstack-cli`来介绍每个API的使用方法。全局配置（Global Configurations）: 介绍和该功能有关的全局配置参数。系统标签（System Tags）: 介绍和该功能有关的系统标签。我们推荐用户从:ref:Introduction`开始，然后至少阅读:ref:`Resource Model <resource>, Command LineTool, 和:ref:Query <query> 。这些将会对日常使用ZStack非常关键。对于其他章节，你可以按需阅读。 例如，当你需要创建虚拟机的时候，再来阅读 Virtual Machine 。 
+产品手册里会详细介绍Mevoco的各个资源的状态变化、使用场景和问题分析。
+
+每个功能是一章，每一章还会划分为以下几个部分：
+
+简介: 简单介绍一下该功能的背景。清单（Inventory）: 介绍该功能各种资源(例如主机区域（zone）, 虚拟机（virtual machine）)的清单，也就是在使用各种Query API得到的返回结果。 
+
+我们会使用表格来展示清单，表格的左边是资源的名字，右侧会介绍该资源的用途。操作: 介绍和该功能有关的API操作。
+
+我们还将结合ZStack的命令行工具`zstack-cli`来介绍每个API的使用方法。
+
+全局配置（Global Configurations）: 介绍和该功能有关的全局配置参数。
+
+系统标签（System Tags）: 介绍和该功能有关的系统标签。我们推荐用户从:ref:Introduction`开始，然后至少阅读:ref:`Resource Model <resource>, Command LineTool, 和:ref:Query <query> 。
+
+这些将会对日常使用ZStack非常关键。对于其他章节，你可以按需阅读。 例如，当你需要创建虚拟机的时候，再来阅读 Virtual Machine 。 
 
 
 ## 读者对象
