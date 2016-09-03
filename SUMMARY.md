@@ -5,7 +5,6 @@
 * [概述](README.md)
 * [资源](Unit/README.md)
     * [区域](Unit/Zone/README.md)
-        * [简介](Unit/Zone/introduction.md)
         * [状态](Unit/Zone/status.md)
         * [操作](Unit/Zone/behavior/README.md)
             * [创建Zone](Unit/Zone/behavior/create_zone.md)
