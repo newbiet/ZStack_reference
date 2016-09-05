@@ -37,4 +37,4 @@
 `QueryVmInstance __userTag__=apache2-http`
 
 这是标签的最常见的用法。资源可以有关联的，在不同的逻辑组分组多个标签。
-![png](../images/tag1.png "图10-2 镜像管理界面")
+![png](/images/tag1.png )
