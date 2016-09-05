@@ -30,6 +30,40 @@
 
 标签为ZStack配合和其他的IaaS软件之间的根本区别是ZStack配合分类标签分为两类：用户和系统。
 
+### 命名约定（Name Convention）
+用户标签和系统标签最多都只能有2048个字符.
+
+对于用户标签, 没有强制的命名约定, 但推荐使用可读的有意义的字符串.
+
+对于系统标签, 和ZStack中服务和插件定义的一样, 他们使用 :: 作为分隔符（delimiters）.
+
+
+### 资源类型（Resource Type）
+
+|资源类型 | 
+| --- |
+| ZoneVO |
+| ClusterVO |
+| HostVO
+| PrimaryStorageVO
+| BackupStorageVO
+| ImageVO
+| InstanceOfferingVO
+| DiskOfferingVO
+| VolumeVO
+| L2NetworkVO
+| L3NetworkVO
+| IpRangeVO
+| VipVO
+| EipVO
+| VmInstanceVO
+|VmNicVO
+| SecurityGroupRuleVO
+| SecurityGroupVO
+|PortForwardingRuleVO
+| VolumeSnapshotTreeVO
+| VolumeSnapshotVO
+
 ### 1.用户标签
 
 用户标签，因为顾名思义，是由用户提供分组资源创建的标记。例如，分组由一个标签'的Apache2-HTTP“安装的Apache2 HTTP服务器的虚拟机; 然后，用户可以使用带标签“的Apache2-HTTP”查询API作为查询条件检索这些虚拟机：
