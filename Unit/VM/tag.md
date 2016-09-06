@@ -6,8 +6,7 @@
 
 ### 系统标签
 
-HostName
-用户可以为一个虚拟机的默认L3网络指定一个主机名. 这个标签通常在调用`CreateVmInstance`时在*systemTags*参数中指定; 如果默认的L3网络有DNS域, 虚拟机操作系统收到的主机名会自动使用这个DNS域扩展. 例如, 假设主机名为’web-server’ 并且默认L3网络的DNS域为’zstack.org’, 那么最终的机器名将会是’web-server.zstack.org’.
+HostName用户可以为一个虚拟机的默认L3网络指定一个主机名. 这个标签通常在调用`CreateVmInstance`时在*systemTags*参数中指定; 如果默认的L3网络有DNS域, 虚拟机操作系统收到的主机名会自动使用这个DNS域扩展. 例如, 假设主机名为’web-server’ 并且默认L3网络的DNS域为’zstack.org’, 那么最终的机器名将会是’web-server.zstack.org’.
 
 | 标签 | 描述 | 示例 | 起始支持版本
 | --- | 
