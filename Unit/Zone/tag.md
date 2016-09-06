@@ -10,6 +10,6 @@
 
 保留容量（Reserved Capacity）
 
-| 标签（Tag）| 描述 | 示例 |　起始支持版本
-｜ --- | ---
-host::reservedMemory::{capacity}请参见 主机容量保留（Host Capaci=pk=-8ty Reservation）host::reservedMemory::1G0.6
+| 标签（Tag）| 描述 | 示例 |　起始支持版本 |
+| --- | ---
+| host::reservedMemory::{capacity} | 请参见 主机容量保留（Host Capaci=pk=-8ty Reservation）| host::reservedMemory::1G |　0.6
