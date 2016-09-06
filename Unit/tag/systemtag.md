@@ -8,7 +8,21 @@ QuerySystemTag fields=tag resourceUuid=d07066c4de02404a948772e131139eb4
 
 *d07066c4de02404a948772e131139eb4*是某个云主机的UUID, 查询结果为:
 
-{ "inventories": [ { "tag": "capability:liveSnapshot" }, { "tag": "qemu-img::version::2.0.0" }, { "tag": "os::version::14.04" }, { "tag": "libvirt::version::1.2.2" }, { "tag": "os::release::trusty" }, { "tag": "os::distribution::Ubuntu" } ], "success": true }
+{ "inventories": [ 
+
+{ "tag": "capability:liveSnapshot" },
+
+ { "tag": "qemu-img::version::2.0.0" },
+
+ { "tag": "os::version::14.04" },
+
+ { "tag": "libvirt::version::1.2.2" },
+
+ { "tag": "os::release::trusty" },
+
+ { "tag": "os::distribution::Ubuntu" } ], 
+
+"success": true }
 
 这一类的系统标签, 被称为内部系统标签（inherent system tags）; 内部系统标签只能被ZStack的服务（services）或插件（plugins）创建, 并且不能被DeleteTag API删除.
 
