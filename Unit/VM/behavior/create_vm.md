@@ -5,7 +5,7 @@
 
 * ### 初始状态
 
-  [云主机状态](/Unit/BS/status.md)：无
+  [无](/Unit/BS/status.md)
 
 * ### 条件
 
