@@ -32,8 +32,9 @@
 
 这个机器名被实现为一个系统标签; 如果你查看 VM inventory in chapter ‘Virtual Machine’, 那里没有叫做’hostname’的属性; 然而, 你可以在 虚拟机的系统标签中发现它:
 
-QuerySystemTag fields=tag,uuid resourceUuid=76e119bf9e16461aaf3d1b47c645c7b7
-
+`QuerySystemTag fields=tag,uuid resourceUuid=76e119bf9e16461aaf3d1b47c645c7b7
+`
+```
 { "inventories": [ 
 { "tag": "hostname::web-server-1", "uuid": 
 
@@ -41,8 +42,8 @@ QuerySystemTag fields=tag,uuid resourceUuid=76e119bf9e16461aaf3d1b47c645c7b7
 
  } 
 ], 
-
 "success": true }
+```
 
 这类系统标签就是非内部的（non-inherent）, 用户可以通过DeleteTag删除它; 例如, 如果用户想把一个之前的虚拟机的机器名更改为 ‘web-server-nginx’, 可以这样做:
 
