@@ -5,7 +5,7 @@
 
 * ### 初始状态
 
-  [无](/Unit/BS/status.md)
+  [无](/Unit/VM/status.md)
 
 * ### 条件
 
