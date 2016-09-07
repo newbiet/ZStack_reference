@@ -4,7 +4,7 @@
 
 用户可以使用resourceType=PrimaryStorageVO在主存储上创建用户标签. 例如:
 
-CreateUserTag resourceType=PrimaryStorage tag=SSD resourceUuid=e084dc809fec4092ab0eff797d9529d5
+`CreateUserTag resourceType=PrimaryStorage tag=SSD resourceUuid=e084dc809fec4092ab0eff797d9529d5`
 
 ### 系统标签
 

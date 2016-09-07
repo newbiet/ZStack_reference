@@ -4,7 +4,7 @@
 
 用户可以使用resourceType=InstanceOfferingVO在计算规格上创建用户标签. 例如:
 
-CreateUserTag resourceType=InstanceOfferingVO tag=web-server-offering resourceUuid=45f909969ce24865b1bbca4
+`CreateUserTag resourceType=InstanceOfferingVO tag=web-server-offering resourceUuid=45f909969ce24865b1bbca4`
 
 
 ### 系统标签
