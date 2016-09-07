@@ -20,7 +20,8 @@ CreateUserTag tag=largeMemoryHost resourceUuid=0a9f95a659444848846b5118e15bff32 
 
 请参见 zone host::reservedMemory; 如果没有其他层次的配置，这个系统标签的值会应用到所有这个区域中的主机上. 这个值覆盖全局配置等级(global level).
 
-** 管理员可以使用resourceType=HostVO在主机上创建用户标签. 例如:CreateUserTag tag=largeMemoryHost resourceUuid=0a9f95a659444848846b5118e15bff32 resourceType=HostVO 系统标签（System Tags）主机容量保留（Host Capacity Reservation）
+** 管理员可以使用resourceType=HostVO在主机上创建用户标签. 
+例如:CreateUserTag tag=largeMemoryHost resourceUuid=0a9f95a659444848846b5118e15bff32 resourceType=HostVO 系统标签（System Tags）主机容量保留（Host Capacity Reservation）
 
 管理员可以使用系统标签在主机上保留一部分内存供系统软件使用. ZStack提供了各种系统标签和全局配置， 以达到更好粒度的内存保留策略控制:
 
@@ -44,7 +45,7 @@ CreateUserTag tag=largeMemoryHost resourceUuid=0a9f95a659444848846b5118e15bff32 
 
 这个配置覆盖所有上面的配置等级.
 
-例如, 假设你还有三个KVM主机zone1->cluster1->{host1, host2, host3}; 默认的内存保留被默认为512M的全局配置（global configuration）:ref:`kvm.reservedMemory`控制; 这时如果在zone1上创建一个系统标签 host::reservedMemory::1G, 所有3个主机的内存保留都会被变成1G; 这时如果再在cluster1 上创建一个系统标签*host::reservedMemory::2G*, 所有3个主机的内存保留都会变成2G; 最后, 如果你在host1上创建一个系统标签*reservedMemory::3G*, 这时host1的内存保留将变成3G，但host2和host3还是2G.
+例如, 假设你还有三个KVM主机zone1->cluster1->{host1, host2, host3}; 默认的内存保留被默认为512M的全局配置（global configuration）:ref:`kvm.reservedMemory`控制; 这时如果在zone1上创建一个系统标签 `host::reservedMemory::1G`, 所有3个主机的内存保留都会被变成1G; 这时如果再在cluster1 上创建一个系统标签`host::reservedMemory::2G`, 所有3个主机的内存保留都会变成2G; 最后, 如果你在host1上创建一个系统标签`reservedMemory::3G`, 这时host1的内存保留将变成3G，但host2和host3还是2G.
 
 **主机元数据信息（Host Meta Data Information）**
 
