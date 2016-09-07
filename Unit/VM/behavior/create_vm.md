@@ -18,7 +18,7 @@
 * ### 参数
 
 
-  | 单元 | 状态 |
+  | 资源 | 状态 |
   | --- | --- |
   | [镜像](/Unit/Image/README.md) | state:Enabled ; status:Ready |
   | [物理机](/Unit/Host/README.md) | state:Enabled ; status:Connected |
@@ -28,7 +28,7 @@
 
 * ### 结束状态
 
-  [云主机状态](/Unit/VM/status.md)：正在运行
+ running
 
 * ### 错误
 
