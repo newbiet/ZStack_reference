@@ -9,20 +9,6 @@ CreateUserTag tag=largeMemoryHost resourceUuid=0a9f95a659444848846b5118e15bff32 
 `
 ### 系统标签（System Tags）
 
-主机容量保留（Host Capacity Reservation）
-管理员可以使用系统标签在主机上保留一部分内存供系统软件使用. ZStack提供了各种系统标签和全局配置， 以达到更好粒度的内存保留策略控制:
-
-**Hypervisor Global Level:**
-
-如果没有其他层次的配置，全局等级配置(global level) :ref:`kvm.reservedMemory`会应用到所有的KVM主机.
-
-**Zone Level:**
-
-请参见 zone host::reservedMemory; 如果没有其他层次的配置，这个系统标签的值会应用到所有这个区域中的主机上. 这个值覆盖全局配置等级(global level).
-
-** 管理员可以使用resourceType=HostVO在主机上创建用户标签. 
-例如:CreateUserTag tag=largeMemoryHost resourceUuid=0a9f95a659444848846b5118e15bff32 resourceType=HostVO 系统标签（System Tags）主机容量保留（Host Capacity Reservation）
-
 管理员可以使用系统标签在主机上保留一部分内存供系统软件使用. ZStack提供了各种系统标签和全局配置， 以达到更好粒度的内存保留策略控制:
 
 **Hypervisor Global Level:**
