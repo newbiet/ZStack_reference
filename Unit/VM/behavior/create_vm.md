@@ -5,7 +5,7 @@
 
 * ### 初始状态
 
-  [无](/Unit/VM/status.md)
+  无
 
 * ### 条件
 
@@ -28,7 +28,7 @@
 
 * ### 结束状态
 
- running
+ [running](/Unit/VM/status.md)
 
 * ### 错误
 
