@@ -60,6 +60,14 @@
             * [启动云主机](Unit/VM/behavior/启动云主机.md)
             * [指定物理机启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
             * [云主机热迁移](Unit/VM/behavior/live_mv.md)
+            * 停止云主机
+            * 重启云主机
+            * [删除云主机（不删除数据云盘）](Unit/VM/behavior/删除云主机（不删除数据云盘）.md)
+            * [删除云主机（删除数据云盘）](Unit/VM/behavior/删除云主机.md)
+            * 控制台访问云主机
+            * 重启云主机
+            * 修改云主机配置
+            * 迁移云主机
         * [标签](Unit/VM/tag.md)
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
