@@ -19,6 +19,7 @@
   | 资源 | 状态 |
   | --- | --- |
   | [云主机](/Unit/VM/README.md) | state：running | 
+  | [物理机](/Unit/Host/README.md) | state:Enabled ; status:Connected |
 
 * ### 结束状态
 
