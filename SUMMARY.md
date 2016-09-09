@@ -58,6 +58,8 @@
         * [操作](Unit/VM/behavior/README.md)
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [启动云主机](Unit/VM/behavior/启动云主机.md)
+                * 添加
+                * 添加SSH key
             * [指定物理机启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
             * [云主机热迁移](Unit/VM/behavior/live_mv.md)
             * 停止云主机
@@ -68,6 +70,8 @@
             * 重启云主机
             * 修改云主机配置
             * 迁移云主机
+            * 恢复云主机
+            * [彻底删除云主机](Unit/VM/behavior/彻底删除云主机.md)
         * [标签](Unit/VM/tag.md)
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
