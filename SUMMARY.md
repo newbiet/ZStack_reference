@@ -58,6 +58,7 @@
         * [操作](Unit/VM/behavior/README.md)
             * [启动云主机（本地存储）](Unit/VM/behavior/启动云主机.md)
             * [启动云主机（共享存储）](Unit/VM/behavior/指定物理机启动云主机.md)
+            * 启动云主机（顺序启动）
             * [停止云主机（正常）](Unit/VM/behavior/停止云主机.md)
             * [停止云主机（强制）](Unit/VM/behavior/强制停止云主机.md)
             * [迁移云主机（在线）](Unit/VM/behavior/live_mv.md)
@@ -72,6 +73,11 @@
             * [在线创建快照](Unit/VM/behavior/在线创建快照.md)
             * [克隆云主机](Unit/VM/behavior/克隆云主机.md)
             * 定时任务
+            * 加载云盘
+            * 删除云盘
+            * 加载网络
+            * 删除网络
+            * 启动云主机（顺序启动）
         * [标签](Unit/VM/tag.md)
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
