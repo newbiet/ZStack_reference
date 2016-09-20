@@ -71,6 +71,11 @@
             * 迁移云主机
             * 恢复云主机
             * [彻底删除云主机](Unit/VM/behavior/彻底删除云主机.md)
+            * [删除SSH\_key](Unit/VM/behavior/删除sshkey.md)
+            * 在线创建快照
+            * 克隆云主机
+            * 创建云主机时指定静态IP
+            * 强制停止云主机
         * [标签](Unit/VM/tag.md)
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
