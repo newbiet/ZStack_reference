@@ -62,7 +62,6 @@
             * [停止云主机（强制）](Unit/VM/behavior/强制停止云主机.md)
             * [迁移云主机（在线）](Unit/VM/behavior/live_mv.md)
             * [迁移云主机（离线）](Unit/VM/behavior/迁移云主机.md)
-            * [离线迁移云主机](Unit/VM/behavior/迁移云主机.md)
             * [删除云主机（不删除数据云盘）](Unit/VM/behavior/删除云主机（不删除数据云盘）.md)
             * [删除云主机（删除数据云盘）](Unit/VM/behavior/删除云主机.md)
             * [控制台访问云主机](Unit/VM/behavior/控制台访问云主机.md)
