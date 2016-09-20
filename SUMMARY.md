@@ -56,9 +56,9 @@
     * [云主机](Unit/VM/README.md)
         * [状态](Unit/VM/status.md)
         * [操作](Unit/VM/behavior/README.md)
+            * [指定物理机启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [启动云主机](Unit/VM/behavior/启动云主机.md)
-            * [指定物理机启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
             * [云主机热迁移](Unit/VM/behavior/live_mv.md)
             * [停止云主机](Unit/VM/behavior/停止云主机.md)
             * [重启云主机](Unit/VM/behavior/重启云主机.md)
@@ -66,16 +66,16 @@
             * [删除云主机（删除数据云盘）](Unit/VM/behavior/删除云主机.md)
             * [控制台访问云主机](Unit/VM/behavior/控制台访问云主机.md)
             * [添加SSH key](Unit/VM/behavior/添加ssh-key.md)
-            * 重启云主机
-            * 修改云主机配置
-            * 迁移云主机
+            * [重启云主机](Unit/VM/behavior/重启云主机.md)
+            * [修改云主机配置](Unit/VM/behavior/修改云主机配置.md)
+            * [离线迁移云主机](Unit/VM/behavior/迁移云主机.md)
             * 恢复云主机
             * [彻底删除云主机](Unit/VM/behavior/彻底删除云主机.md)
             * [删除SSH\_key](Unit/VM/behavior/删除sshkey.md)
-            * 在线创建快照
-            * 克隆云主机
-            * 创建云主机时指定静态IP
-            * 强制停止云主机
+            * [在线创建快照](Unit/VM/behavior/在线创建快照.md)
+            * [克隆云主机](Unit/VM/behavior/克隆云主机.md)
+            * [创建云主机时指定静态IP](Unit/VM/behavior/创建云主机时指定静态ip.md)
+            * [强制停止云主机](Unit/VM/behavior/强制停止云主机.md)
         * [标签](Unit/VM/tag.md)
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
