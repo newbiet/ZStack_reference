@@ -68,7 +68,7 @@
             * [添加SSH key](Unit/VM/behavior/添加ssh-key.md)
             * [重启云主机](Unit/VM/behavior/重启云主机.md)
             * [离线迁移云主机](Unit/VM/behavior/迁移云主机.md)
-            * 恢复云主机
+            * [恢复云主机](Unit/VM/behavior/恢复云主机.md)
             * [彻底删除云主机](Unit/VM/behavior/彻底删除云主机.md)
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [删除SSH\_key](Unit/VM/behavior/删除sshkey.md)
