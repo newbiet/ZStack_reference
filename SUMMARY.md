@@ -58,7 +58,7 @@
         * [操作](Unit/VM/behavior/README.md)
             * [启动云主机（本地存储）](Unit/VM/behavior/启动云主机.md)
             * [启动云主机（共享存储）](Unit/VM/behavior/指定物理机启动云主机.md)
-            * 启动云主机（顺序启动）
+            * [启动云主机（顺序启动）](Unit/VM/behavior/启动云主机（顺序启动）.md)
             * [停止云主机（正常）](Unit/VM/behavior/停止云主机.md)
             * [停止云主机（强制）](Unit/VM/behavior/强制停止云主机.md)
             * [迁移云主机（在线）](Unit/VM/behavior/live_mv.md)
