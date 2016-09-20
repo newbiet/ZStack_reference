@@ -77,7 +77,6 @@
             * 删除云盘
             * 加载网络
             * 删除网络
-            * 启动云主机（顺序启动）
         * [标签](Unit/VM/tag.md)
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
