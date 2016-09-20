@@ -73,7 +73,6 @@
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [在线创建快照](Unit/VM/behavior/在线创建快照.md)
             * [克隆云主机](Unit/VM/behavior/克隆云主机.md)
-            * 定时任务
             * 加载云盘
             * 删除云盘
             * 加载网络
@@ -85,6 +84,7 @@
             * 云主机创建镜像
             * 创建快照
             * 设置静态IP
+            * 更改所有者
         * [标签](Unit/VM/tag.md)
         * 更改所有者
     * [安全组](Unit/SG/README.md)
