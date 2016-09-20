@@ -57,7 +57,6 @@
         * [状态](Unit/VM/status.md)
         * [操作](Unit/VM/behavior/README.md)
             * [指定物理机启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
-            * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [启动云主机](Unit/VM/behavior/启动云主机.md)
             * [停止云主机](Unit/VM/behavior/停止云主机.md)
             * [强制停止云主机](Unit/VM/behavior/强制停止云主机.md)
@@ -72,6 +71,7 @@
             * [离线迁移云主机](Unit/VM/behavior/迁移云主机.md)
             * 恢复云主机
             * [彻底删除云主机](Unit/VM/behavior/彻底删除云主机.md)
+            * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [删除SSH\_key](Unit/VM/behavior/删除sshkey.md)
             * [在线创建快照](Unit/VM/behavior/在线创建快照.md)
             * [克隆云主机](Unit/VM/behavior/克隆云主机.md)
