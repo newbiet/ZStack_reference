@@ -53,10 +53,23 @@
     * [主存储](Unit/PS/README.md)
         * [状态](Unit/PS/status.md)
         * [操作](Unit/PS/behavior/README.md)
+            * 添加主存储
+            * 删除主存储
+            * 启用主存储
+            * 停用主存储
+            * 重连主存储
+            * 挂载集群
+            * 卸载集群
+            * 修改主存储信息
         * [标签](Unit/PS/tag.md)
     * [二层网络](Unit/L2/README.md)
         * [状态](Unit/L2/status.md)
         * [操作](Unit/L2/behavior/README.md)
+            * 挂载集群
+            * 卸载集群
+            * 创建二层网络
+            * 删除二层网络
+            * 更新二层网络信息
         * [标签](Unit/L2/tag.md)
     * [三层网络](Unit/L3/README.md)
         * [状态](Unit/L3/status.md)
