@@ -10,7 +10,7 @@
             * [创建Zone](Unit/Zone/behavior/create_zone.md)
             * [删除Zone](Unit/Zone/behavior/delete_zone.md)
             * [修改Zone的状态](Unit/Zone/behavior/change_state.md)
-            * [加载镜像服务器](Unit/Zone/behavior/attach_bs.md)
+            * [挂载镜像服务器](Unit/Zone/behavior/attach_bs.md)
             * [卸载镜像服务器](Unit/Zone/behavior/detach_bs.md)
         * [标签](Unit/Zone/tag.md)
     * [集群](Unit/Cluster/README.md)
@@ -51,6 +51,7 @@
             * 重连镜像服务器
             * 删除镜像服务器
             * 挂载区域
+            * 卸载区域
         * [标签](Unit/BS/tag.md)
     * [主存储](Unit/PS/README.md)
         * [状态](Unit/PS/status.md)
