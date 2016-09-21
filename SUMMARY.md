@@ -32,10 +32,25 @@
         * [操作](Unit/Host/behavior/README.md)
             * 添加物理机
             * 删除物理机
+            * 进入维护模式
+            * 重连物理机
+            * [修改物理机IP](Unit/Host/behavior/修改物理机ip.md)
+            * 物理机性能监控
+            * 修改物理机SSH port
+            * 重连物理机
         * [标签](Unit/Host/tag.md)
     * [备份存储](Unit/BS/README.md)
         * [状态](Unit/BS/status.md)
-        * [操作](Unit/BS/behavior/README.md)
+        * 操作
+            * 添加镜像服务器
+            * 修改SSH端口
+            * 修改镜像服务器密码
+            * 修改镜像服务器IP
+            * 启用镜像服务器
+            * 停用镜像服务器
+            * 重连镜像服务器
+            * 删除镜像服务器
+            * 挂载区域
         * [标签](Unit/BS/tag.md)
     * [主存储](Unit/PS/README.md)
         * [状态](Unit/PS/status.md)
