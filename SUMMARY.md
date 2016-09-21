@@ -18,6 +18,7 @@
         * [操作](Unit/Cluster/behavior/README.md)
             * 添加集群
             * 删除集群
+            * 修改集群信息
             * 启用集群
             * 停用集群
             * 添加物理机
@@ -25,27 +26,23 @@
             * 挂载主存储
             * 卸载主存储
             * [挂载网络](Unit/Cluster/behavior/添加网络.md)
-            * 卸载网络
+            * 修改集群信息
         * [标签](Unit/Cluster/tag.md)
     * [物理机](Unit/Host/README.md)
         * [状态](Unit/Host/status.md)
         * [操作](Unit/Host/behavior/README.md)
             * 添加物理机
             * 删除物理机
-            * 进入维护模式
-            * 重连物理机
-            * [修改物理机IP](Unit/Host/behavior/修改物理机ip.md)
-            * 物理机性能监控
-            * 修改物理机SSH port
-            * 重连物理机
+            * [进入维护模式](Unit/Host/behavior/进入维护模式.md)
+            * [重连物理机](Unit/Host/behavior/重连物理机.md)
+            * [修改物理机信息](Unit/Host/behavior/修改物理机ip.md)
+            * [物理机性能监控](Unit/Host/behavior/物理机性能监控.md)
         * [标签](Unit/Host/tag.md)
     * [备份存储](Unit/BS/README.md)
         * [状态](Unit/BS/status.md)
         * 操作
             * 添加镜像服务器
-            * 修改SSH端口
-            * 修改镜像服务器密码
-            * 修改镜像服务器IP
+            * [修改镜像服务器信息](Unit/BS/修改物理机信息.md)
             * 启用镜像服务器
             * 停用镜像服务器
             * 重连镜像服务器
