@@ -92,6 +92,17 @@
     * [镜像](Unit/Image/README.md)
         * [状态](Unit/Image/status.md)
         * [操作](Unit/Image/behavior/README.md)
+            * 添加镜像
+            * 删除镜像
+            * 启用镜像
+            * 停用镜像
+            * 恢复镜像
+            * 彻底删除镜像
+            * 修改镜像信息
+            * 更改所有者
+            * 共享镜像
+            * [全局共享镜像](Unit/Image/behavior/全局共享镜像.md)
+            * 全局召回镜像
         * [标签](Unit/Image/tag.md)
     * [云盘](Unit/Volume/README.md)
         * [状态](Unit/Volume/status.md)
