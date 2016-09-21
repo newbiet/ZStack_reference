@@ -16,10 +16,22 @@
     * [集群](Unit/Cluster/README.md)
         * [状态](Unit/Cluster/status.md)
         * [操作](Unit/Cluster/behavior/README.md)
+            * 添加集群
+            * 删除集群
+            * 启用集群
+            * 停用集群
+            * 添加物理机
+            * [删除物理机](Unit/Cluster/behavior/删除物理机.md)
+            * 挂载主存储
+            * 卸载主存储
+            * [挂载网络](Unit/Cluster/behavior/添加网络.md)
+            * 卸载网络
         * [标签](Unit/Cluster/tag.md)
     * [物理机](Unit/Host/README.md)
         * [状态](Unit/Host/status.md)
         * [操作](Unit/Host/behavior/README.md)
+            * 添加物理机
+            * 删除物理机
         * [标签](Unit/Host/tag.md)
     * [备份存储](Unit/BS/README.md)
         * [状态](Unit/BS/status.md)
