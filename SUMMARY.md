@@ -65,10 +65,10 @@
     * [二层网络](Unit/L2/README.md)
         * [状态](Unit/L2/status.md)
         * [操作](Unit/L2/behavior/README.md)
-            * 挂载集群
-            * 卸载集群
             * 创建二层网络
             * 删除二层网络
+            * 卸载集群
+            * 挂载集群
             * 更新二层网络信息
         * [标签](Unit/L2/tag.md)
     * [三层网络](Unit/L3/README.md)
@@ -157,6 +157,7 @@
             * [迁移云主机（在线）](Unit/VM/behavior/live_mv.md)
             * [迁移云主机（离线）](Unit/VM/behavior/迁移云主机.md)
             * [控制台访问云主机](Unit/VM/behavior/控制台访问云主机.md)
+            * 创建云主机
             * [删除云主机](Unit/VM/behavior/删除云主机（不删除数据云盘）.md)
             * [添加SSH key](Unit/VM/behavior/添加ssh-key.md)
             * [删除SSH key](Unit/VM/behavior/删除sshkey.md)
@@ -164,14 +165,14 @@
             * [从ISO创建云主机](Unit/VM/behavior/create_vm.md)
             * [在线创建快照](Unit/VM/behavior/在线创建快照.md)
             * [克隆云主机](Unit/VM/behavior/克隆云主机.md)
-            * 加载云盘
-            * 删除云盘
-            * 加载网络
-            * 删除网络
-            * 开启高可用
-            * 关闭高可用
-            * 加载ISO
-            * 卸载ISO
+            * [加载云盘](Unit/VM/behavior/加载云盘.md)
+            * [删除云盘](Unit/VM/behavior/删除云盘.md)
+            * [加载网络](Unit/VM/behavior/加载网络.md)
+            * [删除网络](Unit/VM/behavior/删除网络.md)
+            * [开启高可用](Unit/VM/behavior/开启高可用.md)
+            * [关闭高可用](Unit/VM/behavior/关闭高可用.md)
+            * [加载ISO](Unit/VM/behavior/加载iso.md)
+            * [卸载ISO](Unit/VM/behavior/卸载iso.md)
             * 云主机创建镜像
             * 创建快照
             * 设置静态IP
@@ -204,7 +205,6 @@
             * [查询标签](Unit/tag/behavior/querytag.md)
             * [关联资源](Unit/tag/behavior/联合使用.md)
 * [场景](Scenes/README.md)
-    * 创建云主机
 * [错误处理](Issues_Solve/README.md)
     * [计算资源不足](Issues_Solve/lack_compute_resource.md)
     * [存储资源不足](Issues_Solve/lack_storage_resource.md)
