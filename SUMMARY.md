@@ -131,10 +131,18 @@
             * 修改云盘规格信息
             * 共享云盘规格
             * 召回云盘规格
+            * 全局共享云盘规格
+            * 全局召回云盘规格
         * [标签](Unit/Volume_Offering/tag.md)
     * [计算规格](Unit/Compute_Offering/README.md)
         * [状态](Unit/Compute_Offering/status.md)
         * [操作](Unit/Compute_Offering/behavior/README.md)
+            * 添加计算规格
+            * 删除计算规格
+            * 启用计算规格
+            * 停用计算规格
+            * 修改计算规格
+            * 修改计算规格信息
         * [标签](Unit/Compute_Offering/tag.md)
     * [云主机](Unit/VM/README.md)
         * [状态](Unit/VM/status.md)
@@ -173,6 +181,14 @@
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
         * [操作](Unit/SG/behavior/README.md)
+            * 创建安全组
+            * 删除安全组
+            * 添加安全组规则
+            * 删除安全组规则
+            * 添加虚拟机网卡到云主机
+            * 从安全组删除虚拟网卡
+            * 修改安全组信息
+            * 添加安全组到三层网络
         * [标签](Unit/SG/tag.md)
     * [用户管理](Unit/User/README.md)
         * [状态](Unit/User/status.md)
