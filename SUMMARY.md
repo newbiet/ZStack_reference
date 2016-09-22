@@ -74,7 +74,7 @@
     * [三层网络](Unit/L3/README.md)
         * [状态](Unit/L3/status.md)
         * [操作](Unit/L3/behavior/README.md)
-            * 创建三层网络
+            * [创建三层网络](Unit/L3/behavior/创建三层网络.md)
             * 删除三层网络
             * [添加DNS](Unit/L3/behavior/添加.md)
             * 删除DNS
@@ -204,7 +204,7 @@
             * [查询标签](Unit/tag/behavior/querytag.md)
             * [关联资源](Unit/tag/behavior/联合使用.md)
 * [场景](Scenes/README.md)
-    * [主存储为localstorage创建云主机](Scenes/PS_localstorage_create_vm.md)
+    * 创建云主机
 * [错误处理](Issues_Solve/README.md)
     * [计算资源不足](Issues_Solve/lack_compute_resource.md)
     * [存储资源不足](Issues_Solve/lack_storage_resource.md)
