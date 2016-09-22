@@ -107,10 +107,30 @@
     * [云盘](Unit/Volume/README.md)
         * [状态](Unit/Volume/status.md)
         * [操作](Unit/Volume/behavior/README.md)
+            * 添加云盘
+            * 删除云盘
+            * 启用云盘
+            * 停用云盘
+            * 挂载云盘到云主机
+            * 从云主机卸载云盘
+            * 迁移云盘
+            * 创建云盘快照
+            * 删除云盘快照
+            * 更改所有者
+            * 修改云盘信息
+            * 恢复云盘
+            * 彻底删除云盘
         * [标签](Unit/Volume/tag.md)
     * [云盘规格](Unit/Volume_Offering/README.md)
         * [状态](Unit/Volume_Offering/status.md)
         * [操作](Unit/Volume_Offering/behavior/README.md)
+            * 添加云盘规格
+            * 删除云盘规格
+            * 启用云盘规格
+            * 停用云盘操作
+            * 修改云盘规格信息
+            * 共享云盘规格
+            * 召回云盘规格
         * [标签](Unit/Volume_Offering/tag.md)
     * [计算规格](Unit/Compute_Offering/README.md)
         * [状态](Unit/Compute_Offering/status.md)
