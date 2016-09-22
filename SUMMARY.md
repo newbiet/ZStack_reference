@@ -204,6 +204,10 @@
             * [删除标签](Unit/tag/behavior/deletetag.md)
             * [查询标签](Unit/tag/behavior/querytag.md)
             * [关联资源](Unit/tag/behavior/联合使用.md)
+    * 虚拟路由
+        * 状态
+        * 操作
+        * 标签
 * [场景](Scenes/README.md)
 * [错误处理](Issues_Solve/README.md)
     * [计算资源不足](Issues_Solve/lack_compute_resource.md)
