@@ -83,15 +83,15 @@
             * 删除IP范围
             * 挂载三层网络到云主机
         * [标签](Unit/L3/tag.md)
-    * 网络服务
+    * [网络服务](Unit/网络服务.md)
         * 状态
         * 操作
-            * DHCP
-            * DNS
-            * EIP
-            * LoadBalancer
-            * SNAT
-            * 端口转发
+            * [配置DHCP服务](Unit/dhcp.md)
+            * [配置DNS服务](Unit/dns.md)
+            * [配置EIP服务](Unit/eip.md)
+            * [配置LoadBalancer服务](Unit/配置loadbalancer服务.md)
+            * [配置SNAT服务](Unit/配置snat服务.md)
+            * [配置端口转发服务](Unit/配置端口转发服务.md)
         * 标签
     * [安全组](Unit/SG/README.md)
         * [状态](Unit/SG/status.md)
