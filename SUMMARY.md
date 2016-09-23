@@ -159,7 +159,7 @@
             * [迁移云主机（在线）](Unit/VM/behavior/live_mv.md)
             * [迁移云主机（离线）](Unit/VM/behavior/迁移云主机.md)
             * [控制台访问云主机](Unit/VM/behavior/控制台访问云主机.md)
-            * 创建云主机
+            * [创建云主机](Unit/VM/behavior/创建云主机.md)
             * [删除云主机](Unit/VM/behavior/删除云主机（不删除数据云盘）.md)
             * [添加SSH key](Unit/VM/behavior/添加ssh-key.md)
             * [删除SSH key](Unit/VM/behavior/删除sshkey.md)
