@@ -84,8 +84,8 @@
             * 挂载三层网络到云主机
         * [标签](Unit/L3/tag.md)
     * [网络服务](Unit/网络服务.md)
-        * 状态
-        * 操作
+        * [状态](Unit/状态.md)
+        * [操作](Unit/操作.md)
             * [配置DHCP服务](Unit/dhcp.md)
             * [配置DNS服务](Unit/dns.md)
             * [配置EIP服务](Unit/eip.md)
