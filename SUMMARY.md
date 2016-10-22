@@ -31,8 +31,8 @@
     * [物理机](Unit/Host/README.md)
         * [状态](Unit/Host/status.md)
         * [操作](Unit/Host/behavior/README.md)
-            * 添加物理机
-            * 删除物理机
+            * [添加物理机](Unit/Host/behavior/添加物理机.md)
+            * [删除物理机](Unit/Host/behavior/删除物理机.md)
             * [进入维护模式](Unit/Host/behavior/进入维护模式.md)
             * [重连物理机](Unit/Host/behavior/重连物理机.md)
             * [修改物理机信息](Unit/Host/behavior/修改物理机ip.md)
