@@ -174,6 +174,7 @@
             * [创建快照](Unit/VM/behavior/创建快照.md)
             * [设置静态IP](Unit/VM/behavior/设置静态ip.md)
             * 更改所有者
+            * [云主机添加VPN](Unit/VM/behavior/云主机添加vpn.md)
         * [创建云主机](Unit/VM/behavior/创建云主机.md)
         * [标签](Unit/VM/tag.md)
         * 更改所有者
