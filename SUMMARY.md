@@ -7,7 +7,7 @@
 * [资源](Unit/README.md)
   * [MN](Unit/Zone/mn.md)
     * [启动管理节点](Unit/Zone/start-mn.md)
-    * [管理节点高可用](Unit/Zone/mn-ha.md)
+    * [管理节点HA](Unit/Zone/mn-ha.md)
   * [区域](Unit/Zone/README.md)
     * [状态](Unit/Zone/status.md)
     * [操作](Unit/Zone/behavior/README.md)
@@ -156,6 +156,8 @@
       * [创建云主机](Unit/VM/behavior/create_vm.md)
       * [启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
         * [localstorage](Unit/VM/behavior/指定物理机启动云主机/localstorage.md)
+          * 扁平网络
+          * 云路由网络
         * ceph
         * NFS
       * [启动云主机（本地存储）](Unit/VM/behavior/启动云主机.md)
