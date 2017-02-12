@@ -201,7 +201,7 @@
       * [删除标签](Unit/tag/behavior/deletetag.md)
       * [查询标签](Unit/tag/behavior/querytag.md)
       * [关联资源](Unit/tag/behavior/联合使用.md)
-  * MN
+  * [MN](Unit/Zone/mn.md)
     * start MN
     * [MN HA](Unit/Zone/mn-ha.md)
 * [场景](Scenes/README.md)
