@@ -6,8 +6,8 @@
 * [概述](README.md)
 * [资源](Unit/README.md)
   * [MN](Unit/Zone/mn.md)
-    * start MN
-    * [MN HA](Unit/Zone/mn-ha.md)
+    * [启动管理节点](Unit/Zone/start-mn.md)
+    * [管理节点高可用](Unit/Zone/mn-ha.md)
   * [区域](Unit/Zone/README.md)
     * [状态](Unit/Zone/status.md)
     * [操作](Unit/Zone/behavior/README.md)
