@@ -8,7 +8,7 @@
   * [MN](Unit/Zone/mn.md)
     * [启动管理节点](Unit/Zone/start-mn.md)
     * [管理节点HA](Unit/Zone/mn-ha.md)
-    * [停止管理节点](Unit/Zone/.md)
+    * [停止管理节点](Unit/Zone/stop_mn.md)
   * [区域](Unit/Zone/README.md)
     * [状态](Unit/Zone/status.md)
     * [操作](Unit/Zone/behavior/README.md)
@@ -27,7 +27,7 @@
       * [启用集群](Unit/Cluster/behavior/.md)
       * [停用集群](Unit/Cluster/behavior/.md)
       * 添加物理机
-      * [删除物理机](Unit/Cluster/behavior/删除物理机.md)
+      * [删除物理机](Unit/Cluster/behavior/delete-host.md)
       * 挂载主存储
       * 卸载主存储
       * [挂载网络](Unit/Cluster/behavior/添加网络.md)
@@ -36,10 +36,10 @@
   * [物理机](Unit/Host/README.md)
     * [状态](Unit/Host/status.md)
     * [操作](Unit/Host/behavior/README.md)
-      * [添加物理机](Unit/Host/behavior/添加物理机.md)
-      * [删除物理机](Unit/Host/behavior/删除物理机.md)
-      * [进入维护模式](Unit/Host/behavior/进入维护模式.md)
-      * [重连物理机](Unit/Host/behavior/重连物理机.md)
+      * [添加物理机](Unit/Host/behavior/add-host.md)
+      * [删除物理机](Unit/Host/behavior/delete-host.md)
+      * [进入维护模式](Unit/Host/behavior/maintain-host.md)
+      * [重连物理机](Unit/Host/behavior/reconnect-host.md)
       * [修改物理机信息](Unit/Host/behavior/修改物理机ip.md)
       * [物理机性能监控](Unit/Host/behavior/物理机性能监控.md)
     * [标签](Unit/Host/tag.md)
