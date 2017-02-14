@@ -58,11 +58,11 @@
   * [主存储](Unit/PS/README.md)
     * [状态](Unit/PS/status.md)
     * [操作](Unit/PS/behavior/README.md)
-      * 添加主存储
-      * 删除主存储
-      * 启用主存储
-      * 停用主存储
-      * [重连主存储](Unit/PS/behavior/重连主存储.md)
+      * [添加主存储](Unit/PS/behavior/add_ps.md)
+      * [删除主存储](Unit/PS/behavior/delete_ps.md)
+      * [启用主存储](Unit/PS/behavior/enable_ps.md)
+      * [停用主存储](Unit/PS/behavior/disable_ps.md)
+      * [重连主存储](Unit/PS/behavior/recon_ps.md)
       * 挂载集群
       * 卸载集群
       * 修改主存储信息
