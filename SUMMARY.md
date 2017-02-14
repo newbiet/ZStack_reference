@@ -9,6 +9,7 @@
     * [启动管理节点](Unit/Zone/start-mn.md)
     * [管理节点HA](Unit/Zone/mn-ha.md)
     * [停止管理节点](Unit/Zone/stop_mn.md)
+    * [管理节点升级](Unit/Zone/.md)
   * [区域](Unit/Zone/README.md)
     * [状态](Unit/Zone/status.md)
     * [操作](Unit/Zone/behavior/README.md)
