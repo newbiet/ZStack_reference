@@ -5,7 +5,7 @@
 * [版权声明](CopyRight.md)
 * [概述](README.md)
 * [资源](Unit/README.md)
-  * [MN](Unit/Zone/mn.md)
+  * [管理节点](Unit/Zone/mn.md)
     * [启动管理节点](Unit/Zone/start-mn.md)
     * [管理节点HA](Unit/Zone/mn-ha.md)
     * [停止管理节点](Unit/Zone/stop-mn.md)
