@@ -158,7 +158,7 @@
       * [创建云主机](Unit/VM/behavior/create_vm.md)
       * [启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
         * [localstorage](Unit/VM/behavior/指定物理机启动云主机/localstorage.md)
-          * [扁平网络](Unit/VM/behavior/指定物理机启动云主机/localstorage/.md)
+          * [扁平网络](Unit/VM/behavior/指定物理机启动云主机/localstorage/flat-network.md)
           * 云路由网络
         * ceph
         * NFS
