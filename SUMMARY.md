@@ -67,6 +67,7 @@
       * 挂载集群
       * 卸载集群
       * 修改主存储信息
+      * 主存储进入维护模式
     * [标签](Unit/PS/tag.md)
   * [二层网络](Unit/L2/README.md)
     * [状态](Unit/L2/status.md)
