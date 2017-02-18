@@ -10,6 +10,7 @@
     * [管理节点HA](Unit/Zone/mn-ha.md)
     * [停止管理节点](Unit/Zone/stop-mn.md)
     * [管理节点升级](Unit/Zone/update-mn.md)
+    * 删除管理节点
   * [区域](Unit/Zone/README.md)
     * [状态](Unit/Zone/status.md)
     * [操作](Unit/Zone/behavior/README.md)

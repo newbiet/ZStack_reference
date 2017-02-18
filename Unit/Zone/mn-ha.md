@@ -12,17 +12,36 @@
 * MN-VM的控制和代理通信工具z
 * 分布式控制软件Consul和相关的脚本
 
+
+# 场景
+
+
+
+
+
 # 场景1
 
 ### 触发条件
 
 管理节点所在HOST宕机
 
+::
+    
+    case:fsdfasfa
+    
+    
+
 ### 预期结果
 
 迁移到待选HOST上
 
-元数据关联case，issue,API_doc,cook_book,user_manual
+::
+    
+    case:fsdfasfa
+    
+
+
+元数据关联case，issue,API\_doc,cook\_book,user\_manual
 
 # 场景2
 
