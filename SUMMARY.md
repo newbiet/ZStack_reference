@@ -64,6 +64,7 @@
       * [删除主存储](Unit/PS/behavior/delete_ps.md)
       * [启用主存储](Unit/PS/behavior/enable_ps.md)
       * [停用主存储](Unit/PS/behavior/disable_ps.md)
+      * [维护主存储](Unit/PS/behavior/maintain_ps.md)
       * [重连主存储](Unit/PS/behavior/recon_ps.md)
       * 挂载集群
       * 卸载集群
