@@ -53,7 +53,7 @@
 ::
     case=https://github.com/zstackio/zstack-woodpecker/blob/master/integrationtest/vm/virtualrouter/ps/test_maintain_ps_detach_vol.py
 
-9. 彻底删除云盘不支持
+9. 彻底删除云盘不支持,特别的，如果删除云盘的策略是直接删除的情况下，行为有待细化。
 10.删除云主机支持
 ::
     case=https://github.com/zstackio/zstack-woodpecker/blob/master/integrationtest/vm/virtualrouter/ps/test_maintain_ps_del_vm.py
