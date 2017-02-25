@@ -106,6 +106,7 @@
     case=https://github.com/zstackio/zstack-woodpecker/blob/master/integrationtest/vm/multihosts/ps/test_disable_ps_live_migrate.py
 
 24.重置云主机不支持
+25.是否支持修改CPU和memory？之后再重启云主机？
 
 
 对于普通账户和用户，主存储禁用状态的行为定义为：
