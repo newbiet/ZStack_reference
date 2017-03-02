@@ -119,9 +119,9 @@
     * [状态](Unit/Volume/status.md)
     * [操作](Unit/Volume/behavior/README.md)
       * 添加云盘
-      * 删除云盘
+      * [删除云盘](Unit/Volume/behavior/.md)
       * 启用云盘
-      * 停用云盘
+      * [停用云盘](Unit/Volume/behavior/.md)
       * 挂载云盘到云主机
       * 从云主机卸载云盘
       * 迁移云盘
