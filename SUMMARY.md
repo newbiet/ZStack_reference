@@ -119,9 +119,9 @@
     * [状态](Unit/Volume/status.md)
     * [操作](Unit/Volume/behavior/README.md)
       * 添加云盘
-      * [删除云盘](Unit/Volume/behavior/.md)
+      * [删除云盘](Unit/Volume/behavior/delete_volume.md)
       * 启用云盘
-      * [停用云盘](Unit/Volume/behavior/.md)
+      * [停用云盘](Unit/Volume/behavior/disable_volume.md)
       * 挂载云盘到云主机
       * 从云主机卸载云盘
       * 迁移云盘
@@ -159,13 +159,8 @@
     * [状态](Unit/VM/status.md)
     * [操作](Unit/VM/behavior/README.md)
       * [创建云主机](Unit/VM/behavior/create_vm.md)
-      * [启动云主机](Unit/VM/behavior/指定物理机启动云主机.md)
-        * [localstorage](Unit/VM/behavior/指定物理机启动云主机/localstorage.md)
-          * [扁平网络](Unit/VM/behavior/指定物理机启动云主机/localstorage/flat-network.md)
-          * 云路由网络
-        * ceph
-        * NFS
       * [启动云主机（本地存储）](Unit/VM/behavior/启动云主机.md)
+      * [启动云主机（共享存储）](Unit/VM/behavior/指定物理机启动云主机.md)
       * [启动云主机（顺序启动）](Unit/VM/behavior/启动云主机（顺序启动）.md)
       * [停止云主机](Unit/VM/behavior/停止云主机.md)
       * [迁移云主机](Unit/VM/behavior/live_mv.md)
