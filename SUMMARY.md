@@ -47,7 +47,7 @@
     * [标签](Unit/Host/tag.md)
   * [备份存储](Unit/BS/README.md)
     * [状态](Unit/BS/status.md)
-    * 操作
+    * 操作 
       * 添加镜像服务器
       * [修改镜像服务器信息](Unit/BS/修改物理机信息.md)
       * 启用镜像服务器
@@ -160,7 +160,6 @@
     * [操作](Unit/VM/behavior/README.md)
       * [创建云主机](Unit/VM/behavior/create_vm.md)
       * [启动云主机](Unit/VM/behavior/启动云主机.md)
-      * [启动云主机（共享存储）](Unit/VM/behavior/指定物理机启动云主机.md)
       * [启动云主机（顺序启动）](Unit/VM/behavior/启动云主机（顺序启动）.md)
       * [停止云主机](Unit/VM/behavior/停止云主机.md)
       * [迁移云主机](Unit/VM/behavior/live_mv.md)
@@ -184,6 +183,7 @@
       * [设置静态IP](Unit/VM/behavior/设置静态ip.md)
       * 更改所有者
       * [云主机添加VPN](Unit/VM/behavior/云主机添加vpn.md)
+      * [在线修改密码](Unit/VM/behavior/online_change_pwd.md)
     * [标签](Unit/VM/tag.md)
     * 更改所有者
   * [用户管理](Unit/User/README.md)
