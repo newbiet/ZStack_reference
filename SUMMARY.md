@@ -204,8 +204,6 @@
       * [删除标签](Unit/tag/behavior/deletetag.md)
       * [查询标签](Unit/tag/behavior/querytag.md)
       * [关联资源](Unit/tag/behavior/联合使用.md)
-* [场景](Scenes/README.md)
-  * [主存储容量改变](Scenes/主存储容量改变.md)
 * [错误处理](Issues_Solve/README.md)
   * [计算资源不足](Issues_Solve/lack_compute_resource.md)
   * [存储资源不足](Issues_Solve/lack_storage_resource.md)
