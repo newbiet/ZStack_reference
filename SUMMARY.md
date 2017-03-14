@@ -177,6 +177,7 @@
       * [关闭高可用](Unit/VM/behavior/关闭高可用.md)
       * [加载ISO](Unit/VM/behavior/加载iso.md)
       * [卸载ISO](Unit/VM/behavior/卸载iso.md)
+      * [设置云主机显卡](Unit/VM/behavior/vm_gpu.md)
       * [云主机创建镜像](Unit/VM/behavior/create_image.md)
       * [创建快照](Unit/VM/behavior/创建快照.md)
       * [设置静态IP](Unit/VM/behavior/设置静态ip.md)
