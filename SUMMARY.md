@@ -125,7 +125,7 @@
       * 挂载云盘到云主机
       * 从云主机卸载云盘
       * 迁移云盘
-      * 创建云盘快照
+      * [创建云盘快照](Unit/Volume/behavior/chuang-jian-yun-pan-kuai-zhao.md)
       * 删除云盘快照
       * 更改所有者
       * 修改云盘信息
@@ -184,6 +184,7 @@
       * [更改所有者](Unit/VM/behavior/geng-gai-suo-you-zhe.md)
       * [云主机添加VPN](Unit/VM/behavior/云主机添加vpn.md)
       * [在线修改密码](Unit/VM/behavior/online_change_pwd.md)
+      * [创建定时任务](Unit/VM/chuang-jian-ding-shi-ren-wu.md)
     * [标签](Unit/VM/tag.md)
     * 更改所有者
   * [用户管理](Unit/User/README.md)
