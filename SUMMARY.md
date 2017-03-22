@@ -118,7 +118,7 @@
   * [云盘](Unit/Volume/README.md)
     * [状态](Unit/Volume/status.md)
     * [操作](Unit/Volume/behavior/README.md)
-      * 添加云盘
+      * [添加云盘](Unit/Volume/behavior/tian-jia-yun-pan.md)
       * [删除云盘](Unit/Volume/behavior/delete_volume.md)
       * 启用云盘
       * [停用云盘](Unit/Volume/behavior/disable_volume.md)
@@ -131,6 +131,7 @@
       * 修改云盘信息
       * 恢复云盘
       * 彻底删除云盘
+      * [挂载云盘到主存储](Unit/Volume/behavior/gua-zai-yun-pan-dao-zhu-cun-chu.md)
     * [标签](Unit/Volume/tag.md)
   * [云盘规格](Unit/Volume_Offering/README.md)
     * [状态](Unit/Volume_Offering/status.md)
@@ -165,6 +166,7 @@
       * [迁移云主机](Unit/VM/behavior/live_mv.md)
       * [控制台访问云主机](Unit/VM/behavior/控制台访问云主机.md)
       * [删除云主机](Unit/VM/behavior/删除云主机（不删除数据云盘）.md)
+      * [彻底删除云主机](Unit/VM/behavior/che-di-shan-chu-yun-zhu-ji.md)
       * [添加SSH key](Unit/VM/behavior/添加ssh-key.md)
       * [删除SSH key](Unit/VM/behavior/删除sshkey.md)
       * [恢复云主机](Unit/VM/behavior/恢复云主机.md)
@@ -210,6 +212,9 @@
     * [license](Unit/tag/shou-quan/license.md)
   * [云路由](Unit/Zone/yun-lu-you.md)
     * [创建云路由网络](Unit/Zone/yun-lu-you/chuang-jian-yun-lu-you-wang-luo.md)
+  * 镜像
+    * [添加镜像](Unit/Zone/tian-jia-jing-xiang.md)
+    * [删除镜像](Unit/Zone/shan-chu-jing-xiang.md)
 * [场景](Scenes/README.md)
   * [主存储容量改变](Scenes/主存储容量改变.md)
 * [错误处理](Issues_Solve/README.md)
