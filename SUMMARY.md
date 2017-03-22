@@ -178,10 +178,10 @@
       * [关闭高可用](Unit/VM/behavior/关闭高可用.md)
       * [加载ISO](Unit/VM/behavior/加载iso.md)
       * [卸载ISO](Unit/VM/behavior/卸载iso.md)
-      * 云主机创建镜像
+      * [云主机创建镜像](Unit/VM/behavior/yun-zhu-ji-chuang-jian-jing-xiang.md)
       * [创建快照](Unit/VM/behavior/创建快照.md)
       * [设置静态IP](Unit/VM/behavior/设置静态ip.md)
-      * 更改所有者
+      * [更改所有者](Unit/VM/behavior/geng-gai-suo-you-zhe.md)
       * [云主机添加VPN](Unit/VM/behavior/云主机添加vpn.md)
       * [在线修改密码](Unit/VM/behavior/online_change_pwd.md)
     * [标签](Unit/VM/tag.md)
@@ -207,6 +207,8 @@
       * [关联资源](Unit/tag/behavior/联合使用.md)
   * [授权](Unit/tag/shou-quan.md)
     * [license](Unit/tag/shou-quan/license.md)
+  * [云路由](Unit/Zone/yun-lu-you.md)
+    * [创建云路由网络](Unit/Zone/yun-lu-you/chuang-jian-yun-lu-you-wang-luo.md)
 * [场景](Scenes/README.md)
   * [主存储容量改变](Scenes/主存储容量改变.md)
 * [错误处理](Issues_Solve/README.md)
