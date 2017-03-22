@@ -205,6 +205,8 @@
       * [删除标签](Unit/tag/behavior/deletetag.md)
       * [查询标签](Unit/tag/behavior/querytag.md)
       * [关联资源](Unit/tag/behavior/联合使用.md)
+  * [授权](Unit/tag/shou-quan.md)
+    * [license](Unit/tag/shou-quan/license.md)
 * [场景](Scenes/README.md)
   * [主存储容量改变](Scenes/主存储容量改变.md)
 * [错误处理](Issues_Solve/README.md)
