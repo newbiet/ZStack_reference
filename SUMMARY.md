@@ -122,7 +122,7 @@
       * [删除云盘](Unit/Volume/behavior/delete_volume.md)
       * 启用云盘
       * [停用云盘](Unit/Volume/behavior/disable_volume.md)
-      * 挂载云盘到云主机
+      * [挂载云盘到云主机](Unit/Volume/behavior/gua-zai-yun-pan-dao-yun-zhu-ji.md)
       * 从云主机卸载云盘
       * 迁移云盘
       * [创建云盘快照](Unit/Volume/behavior/chuang-jian-yun-pan-kuai-zhao.md)
@@ -136,7 +136,7 @@
   * [云盘规格](Unit/Volume_Offering/README.md)
     * [状态](Unit/Volume_Offering/status.md)
     * [操作](Unit/Volume_Offering/behavior/README.md)
-      * 添加云盘规格
+      * [添加云盘规格](Unit/Volume_Offering/behavior/tian-jia-yun-pan-gui-ge.md)
       * 删除云盘规格
       * 启用云盘规格
       * 停用云盘操作
