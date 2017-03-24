@@ -30,7 +30,7 @@
       * [停用集群](Unit/Cluster/behavior/disable-cluster.md)
       * 添加物理机
       * [删除物理机](Unit/Cluster/behavior/delete-host.md)
-      * 挂载主存储
+      * [挂载主存储](Unit/Cluster/behavior/gua-zai-zhu-cun-chu.md)
       * 卸载主存储
       * [挂载网络](Unit/Cluster/behavior/attach-network.md)
       * 修改集群信息
@@ -44,6 +44,8 @@
       * [重连物理机](Unit/Host/behavior/reconnect-host.md)
       * [修改物理机信息](Unit/Host/behavior/修改物理机ip.md)
       * [物理机性能监控](Unit/Host/behavior/物理机性能监控.md)
+      * [物理机云盘](Unit/Host/behavior/wu-li-ji-yun-pan.md)
+      * [物理机失联](Unit/Host/behavior/wu-li-ji-shi-lian.md)
     * [标签](Unit/Host/tag.md)
   * [备份存储](Unit/BS/README.md)
     * [状态](Unit/BS/status.md)
@@ -68,7 +70,7 @@
       * [重连主存储](Unit/PS/behavior/recon_ps.md)
       * 挂载集群
       * 卸载集群
-      * 修改主存储信息
+      * [修改主存储信息](Unit/PS/behavior/xiu-gai-zhu-cun-chu-xin-xi.md)
       * [主存储进入维护模式](//Unit/PS/behavior/mantain-ps)
     * [标签](Unit/PS/tag.md)
   * [二层网络](Unit/L2/README.md)
@@ -149,7 +151,7 @@
   * [计算规格](Unit/Compute_Offering/README.md)
     * [状态](Unit/Compute_Offering/status.md)
     * [操作](Unit/Compute_Offering/behavior/README.md)
-      * 添加计算规格
+      * [添加计算规格](Unit/Compute_Offering/behavior/tian-jia-ji-suan-gui-ge.md)
       * 删除计算规格
       * 启用计算规格
       * 停用计算规格
