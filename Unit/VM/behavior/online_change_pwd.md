@@ -1,1 +1,4 @@
-fsdafasfsfas
+# 在线修改密码
+
+1.在zstack中，设定以“password”开头的密码是不可行的，此操作会触发VNC的安全问题，导致只要输入以“password”开头的密码都可以进入控制台。
+

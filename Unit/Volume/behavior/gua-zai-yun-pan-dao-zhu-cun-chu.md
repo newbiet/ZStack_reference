@@ -1,0 +1,2 @@
+#挂载云盘挂载云盘到主存储
+1.主存储处于disable或者Maintenance状态时，它已挂载的云盘仍处于Ready状态，但是此时创建新的云盘无法挂载主存储，这样创建出来的新云盘会处于NotInstantiated状态。
