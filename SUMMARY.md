@@ -188,9 +188,10 @@
       * [更改所有者](Unit/VM/behavior/geng-gai-suo-you-zhe.md)
       * [云主机添加VPN](Unit/VM/behavior/云主机添加vpn.md)
       * [在线修改密码](Unit/VM/behavior/online_change_pwd.md)
+      * [更改所有者](Unit/VM/geng-gai-suo-you-zhe.md)
       * [创建定时任务](Unit/VM/chuang-jian-ding-shi-ren-wu.md)
+      * [云主机显卡](Unit/VM/behavior/yun-zhu-ji-xian-qia.md)
     * [标签](Unit/VM/tag.md)
-    * 更改所有者
   * [用户管理](Unit/User/README.md)
     * [状态](Unit/User/status.md)
     * [操作](Unit/User/behavior/README.md)
